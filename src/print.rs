@@ -12,4 +12,7 @@ pub fn run() {
 
 	//Named Args
 	println!("{name} likes to eat {food}", name = "TFQ", food="bread");
+
+	// PLaceholder for debug
+	println!("{:?}", (12, true, "wow"));
 }
