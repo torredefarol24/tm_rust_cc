@@ -3,7 +3,9 @@
 // mod strings;
 // mod data_types;
 // mod tuples;
-mod vectors;
+// mod vectors;
+mod conditionals;
+
 
 fn main() {
     // print::run();
@@ -11,5 +13,6 @@ fn main() {
     // data_types::exec();
     // strings::run();
     // tuples::carry_out();
-    vectors::run();
+    // vectors::run();
+    conditionals::perform();
 }
