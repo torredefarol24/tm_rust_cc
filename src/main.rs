@@ -5,7 +5,10 @@
 // mod tuples;
 // mod arrays;
 // mod vectors;
-mod conditionals;
+// mod conditionals;
+// mod loops;
+// mod functions;
+
 
 
 fn main() {
@@ -16,5 +19,7 @@ fn main() {
     // tuples::carry_out();
     // arrays::run();
     // vectors::run();
-    conditionals::perform();
+    // conditionals::perform();
+    // loops::run();
+    // functions::now();
 }
