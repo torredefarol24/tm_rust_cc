@@ -8,7 +8,7 @@
 // mod conditionals;
 // mod loops;
 // mod functions;
-
+// mod pointer_refs;
 
 
 fn main() {
@@ -22,4 +22,5 @@ fn main() {
     // conditionals::perform();
     // loops::run();
     // functions::now();
+    // pointer_refs::run();
 }
